@@ -63,38 +63,58 @@ To get started with the Next template, follow these simple steps:
 6.  **Deploy:** Upload the project files to your web server to make your website live.
 
 **File Structure:**
-content_copy
-download
-Use code with caution.
-Markdown
 
+```
 next-agency-template/
 ├── css/
-│ └── main.css # Main Stylesheet
-├── images/ # Image Assets
-│ ├── agent/
-│ ├── avatar/
-│ ├── blog-img/
-│ ├── icons/
-│ ├── logo.png
-│ ├── logo-white.png
-│ ├── ...
-├── js/ # JavaScript Files
-│ ├── lib/ # Libraries (GSAP, ScrollTrigger, etc.)
-│ └── script.js # Main Script File
-├── homepage-01.html # Homepage Variations
+│   └── main.css          # Main Stylesheet
+├── images/             # Image Assets
+│   ├── agent/
+│   ├── avatar/
+│   ├── blog-img/
+│   ├── icons/
+│   ├── logo.png
+│   ├── logo-white.png
+│   ├── ...
+├── js/                 # JavaScript Files
+│   ├── lib/            # Libraries (GSAP, ScrollTrigger, etc.)
+│   └── script.js       # Main Script File
+├── homepage-01.html    # Homepage Variations
 ├── homepage-02.html
 ├── homepage-03.html
-├── ...
-├── about.html # Inner Pages
+├── homepage-04.html
+├── homepage-05.html
+├── homepage-06.html
+├── homepage-07.html
+├── homepage-08.html
+├── homepage-09.html
+├── homepage-10.html
+├── about.html          # Inner Pages
+├── about-02.html
 ├── blog.html
+├── blog-02.html
+├── blog-details.html
+├── career.html
+├── career-02.html
+├── career-details.html
+├── changelog.html
 ├── contact.html
-├── index.html # Default Homepage
+├── faq.html
+├── index.html          # Default Homepage
+├── password-protected.html
 ├── privacy-policy.html
 ├── project.html
+├── project-02.html
+├── project-03.html
+├── project-details.html
+├── project-details-02.html
 ├── services.html
-├── readme.md # This README file
-└── ...
+├── services-details.html
+├── team.html
+├── team-details.html
+└── readme.md           # This README file
+
+```
 
 ## Technologies Used
 
